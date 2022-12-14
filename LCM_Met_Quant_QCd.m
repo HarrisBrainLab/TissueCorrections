@@ -1,5 +1,5 @@
 
-function [LCM_CorrectedTable] = LCM_Met_Quant_MD_V2(LCM_Table,TE,TR,LCM_w_CONC) %will have to rename file name for the function to work
+function [LCM_CorrectedTable] = LCM_Met_Quant_QCd(LCM_Table,TE,TR,LCM_w_CONC) %will have to rename file name for the function to work
 
 %% Inputs
 % LCM_Table - structure with the LCModel outputs and the fGM, fWM and fCSF
